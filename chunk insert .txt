@@ -1,0 +1,6 @@
+https://laravel.io/forum/06-17-2016-how-do-i-use-chunk-to-insert-large-amounts-of-data-into-database
+
+
+job timeout:
+-------------
+https://stackoverflow.com/questions/70320689/laravel-job-throwing-symfony-component-process-exception-processtimedoutexceptio  
